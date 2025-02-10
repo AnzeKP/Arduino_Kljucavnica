@@ -18,3 +18,5 @@ Navodila: Elektronska ključavnica 1: Na voljo imate 9 tipk (številke 1 do 9 na
 | Oznaka v načrtu | Naslov operanda | Aktiven pin | Pomen                         |
 |-----------------|----------------|-------------|-------------------------------|
 | LED1           | LED            | 9           | Potrdi pravilno vneseno kodo |
+
+
