@@ -20,3 +20,7 @@ Navodila: Elektronska ključavnica 1: Na voljo imate 9 tipk (številke 1 do 9 na
 | LED1           | LED            | 9           | Potrdi pravilno vneseno kodo |
 
 
+
+
+https://github.com/user-attachments/assets/aa3b33c0-e93c-4d48-b59c-744a47b4f896
+
